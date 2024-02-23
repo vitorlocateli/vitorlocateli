@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Vitor
 
-- 🌱 Estou estudando Ciência da Computação na FECAP
+- 🌱 Estou cursando Ciência da Computação na FECAP
 - 📫 Contate-me no email: vitorul04@gmail.com
 
 <div align="center">  
